@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "710761377052",
+    "firebase_url": "https://vast-dock-273705.firebaseio.com",
+    "project_id": "vast-dock-273705",
+    "storage_bucket": "vast-dock-273705.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710761377052:android:cad126f6db7bd75b389ed9",
+        "android_client_info": {
+          "package_name": "notifbae.dc.notifbae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710761377052-h4e8adsnajsvl27tktiobk1bv944lj6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "notifbae.dc.notifbae",
+            "certificate_hash": "82bdb25b345f825dc30632c17fc155d6bef83674"
+          }
+        },
+        {
+          "client_id": "710761377052-jk8bottgna7b7dc7ba01hrfjgqld66td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDielSVy1z94CRXwrJGx2oaYDo1QpK1o4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710761377052-jk8bottgna7b7dc7ba01hrfjgqld66td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
